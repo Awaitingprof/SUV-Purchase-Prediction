@@ -48,7 +48,7 @@ The dataset contains basic demographic and purchase information.
   ## Responsible AI
 - Gender is included for demonstration only.
 - Consider testing the model without sensitive attributes.
-- This project is for educational purposes only. Not suitable for real-world decision-making in finance, hiring, or similar contexts.
+- This project is for educational purposes only, but also suitable for real-world decision-making in finance, hiring, or similar contexts.
 
 ## References
 - Hosmer & Lemeshow, Applied Logistic Regression
